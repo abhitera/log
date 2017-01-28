@@ -17,6 +17,12 @@ function  validEmail() {
         alert("email must be filled");
         return false;
     }
+    
+    
+    
+    
+    
+    
 
     return true;
 }
